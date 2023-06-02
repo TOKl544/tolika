@@ -1,0 +1,23 @@
+﻿body
+{background-image:url('https://avatars.mds.yandex.net/i?id=40b60e6e9fd5f71ed3c2adccfe7ddbb479af70ef-9065826-images-thumbs&n=13');
+background-repeat:repeat;
+} 
+#mama{height:4000px;width:1000px;background:#fff;border-radius:15px 15px;opacity:1;left:100px
+;text-align:center;margin-left:100px
+}
+#pape{width:1280px;height:720px;background-image:url('https://avatars.mds.yandex.net/i?id=6b1cc11af57030a0a22784447b86815223fe4dc7-8498042-images-thumbs&n=13');position:;
+background-repeat:no-repeat;top:100%}
+#papo{background:green;width:50px;height:50px;color:#fafafa;text-align:center;
+border-radius:50%;position:absolute; }
+.caca{width:350px;height:300px;background-image:url('https://avatars.mds.yandex.net/i?id=202b30b193753045ca83f66acde2bfa51204c767-7741114-images-thumbs&n=13');
+;background-repeat:no-repeat;position:relative;left:50px;bottom:-50px
+}
+#opa{position:relative;left:-280px}
+#ipa{position:relative;top:-400px;left:400px}
+#care{width:400px;height:300px;background-image:url('https://avatars.mds.yandex.net/i?id=5fec5f0e9df78f4583f991a746276c85d8af2985-4429068-images-thumbs&n=13');
+background-repeat:no-repeat;position:relative;left:50%;bottom:380px;}
+#rafe{position:relative;bottom:380px;left:25%;}
+#rafi{position:relative;bottom:10%;text-align:center;background:gray;width:100%;height:50px;}
+#ipi{width:200px;height:250px;background-image:url('https://avatars.mds.yandex.net/i?id=3f162cc177d2d3374f714b3deb7afb79fea21591-8399913-images-thumbs&n=13');
+background-repeat:no-repeat;position:relative;bottom:423px;left:25px}
+#ipe{position:relative;bottom:425px;left:-38% }
